@@ -1,4 +1,4 @@
-## Projects
+## Active Projects
 
 - **[Willa](https://willa.family)**: helping working parents stay on top of kid scheduling, pickup & dropoff.
 - **[sunny-launch](https://github.com/workwith-cmd/sunny-launch)**: my public site sunnylaunch.com.
